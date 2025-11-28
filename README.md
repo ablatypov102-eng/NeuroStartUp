@@ -1,8 +1,8 @@
 # tim
  
- -name - Timyr
- -surname - Ablatypov
- -patronymic - Radikovich
+ - name - Timyr
+ - surname - Ablatypov
+ - patronymic - Radikovich
 
 ## Список клиентов
 Мы на столько крутые, что уже успели поработать со следующими компаниями:
